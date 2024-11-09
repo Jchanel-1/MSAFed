@@ -1,2 +1,2 @@
 # MSAFed
-The code will be released once after our paper is accepted
+The code will be released after our paper is accepted
