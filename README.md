@@ -1,2 +1,2 @@
 # MSAFed
-The code is coming soon as long as the paper is accecpted.
+The code will be released once after our paper is accepted
