@@ -7,6 +7,7 @@ The code will be released after our paper is accepted
 * Fed-isic : Download the corresponding datasets [here](https://challenge.isic-archive.com/data/).
 
 After downloading the datasets, the file structure should be:
+
 ├── Dataset
   ├── FedPolyp_npy
     ├── client1
