@@ -8,3 +8,8 @@ The code will be released after our paper is accepted.
 ```
 bash pretrain_inside.sh
 ```
+
+## Inside Adaptation
+```
+bash ada_inside.sh
+```
