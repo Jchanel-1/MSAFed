@@ -13,3 +13,8 @@ bash pretrain_inside.sh
 ```
 bash ada_inside.sh
 ```
+
+## Test Time Adaptation
+```
+bash tta_outside.sh
+```
