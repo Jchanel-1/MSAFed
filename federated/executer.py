@@ -566,3 +566,8 @@ class FederatedExecuter(nn.Module):
                 client_idx, test_local_metrics['test_acc'], test_local_metrics['test_loss']))
         return test_metrics
 
+    def ood_test(self, args):
+        logging.info('=======Start test time adaptation========')
+        logging.info('No adaptation')
+        self.adapt_and_eval(args, mode='test')
+        self.adapt_and_eval(args, mode='ood')
